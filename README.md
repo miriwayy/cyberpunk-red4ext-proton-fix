@@ -39,7 +39,7 @@ backtrace: L"RED4ext.dll" + ...
 ### Automatic
 
 ```bash
-git clone https://github.com/<you>/cyberpunk-red4ext-proton-fix.git
+git clone https://github.com/miriwayy/cyberpunk-red4ext-proton-fix.git
 cd cyberpunk-red4ext-proton-fix
 ./fix-red4ext-proton.sh
 ```
